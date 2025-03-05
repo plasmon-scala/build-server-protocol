@@ -1,0 +1,7 @@
+//> using jvm "17"
+//> using dep "com.google.code.gson:gson:2.11.0"
+//> using dep "org.eclipse.lsp4j:org.eclipse.lsp4j.generator:0.23.1"
+//> using dep "org.eclipse.lsp4j:org.eclipse.lsp4j.jsonrpc:0.23.1"
+//> using publish.organization "ch.epfl.scala"
+//> using publish.name "bsp4j"
+//> using publish.version "2.2.0-M3"
